@@ -16,13 +16,17 @@ and energy materials behave — and when they stop behaving.
 **[HybridPB](https://github.com/SUNCAT-Center/HybridPB)** — a hybrid DFT + experiment Pourbaix
 framework for electrochemical stability. Open source, published in *J. Phys. Chem. C* (2026).
 
-**[PeerNa](https://peerna.onrender.com)** — a multi-pass LLM pipeline that reviews scientific
-manuscripts referee-style, with schema-enforced citation verification. Deployed; source available
-on request.
-
 **rutile-dopant-surrogate** — Gaussian process surrogates predicting dopant energetics on RuO₂
 and IrO₂ surfaces from bulk and elemental descriptors, with an active-learning study of what it
 costs to reach a new host. Private; available on request.
+
+**cation-interface-mlip** — benchmarking and fine-tuning machine-learned interatomic potentials
+(MACE, SevenNet, eSEN, UMA) for alkali cations at Pt(111) and Au(111) / water interfaces, and the
+trust checks that decide whether the resulting dynamics mean anything. Private; available on request.
+
+**[PeerNa](https://peerna.onrender.com)** — a multi-pass LLM pipeline that reviews scientific
+manuscripts referee-style, with schema-enforced citation verification. Deployed; source available
+on request.
 
 Most of my other repositories are working code for HPC calculations and are kept private.
 Happy to share relevant parts on request.
